@@ -68,7 +68,7 @@ class _NotePageState extends State<NotePage> {
               decoration: InputDecoration(
 
                 border: OutlineInputBorder(borderRadius: BorderRadius.circular(12)),
-               label: Text("Contact",style: TextStyle(fontSize: 25,),
+               label: Text("Content",style: TextStyle(fontSize: 25,),
                ),
               prefixIcon: Icon(Icons.notes)),),
             const SizedBox(height: 20,),
